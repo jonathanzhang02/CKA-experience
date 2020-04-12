@@ -29,9 +29,14 @@ CKAD练习 ： https://github.com/dgkanatsios/CKAD-exercises
 
 ## kubeadm搭建Cluster练习
 
-https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
+官方文档 ： https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
+
+特别要了解 https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-tls-bootstrapping/  及这个节点（command-line）的其他子文档里有关组件的配置参数的一些内容
 
 ## 二进制k8s组件搭建Cluster练习
 
 原版： https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 中文版： https://github.com/caicloud/kube-ladder/blob/master/tutorials/lab3-manual-installtion.md
+
+
